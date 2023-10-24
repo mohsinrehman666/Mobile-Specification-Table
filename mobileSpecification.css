@@ -1,0 +1,51 @@
+.bgth {
+    background: #02286c;
+    background: rgba(3, 59, 155, 0.78);
+    color:#000; 
+  }
+  .bgtd {
+    background: #02286c;
+    background: rgba(3, 59, 155, 0.43);
+    color:#000;
+  }
+  .bgthmom {
+    background: #6A6A00;
+    color:#000;
+  }
+  .bgtdmom {
+    background: #A4A400;
+    color:#000; 
+  }
+  .bodyth {
+    background: #4949c7;
+    color:#000;
+  }
+  .bodytd {
+    background: #8080FF;
+    color:#000; 
+  }
+  .netth {
+    background: #CC4200;
+    color:#000;
+  }
+  .nettd {
+    background: #FF8346; 
+  color:#000;
+  }
+  .disth {
+    background: #006600;
+   color:#000;
+  }
+  .distd {
+    background: #00A800;
+    color:#000; 
+  }
+  .camth {
+    background: #2626ff;
+    color:#000;
+  }
+  .camtd {
+    background: #70a1fd; 
+    color:#000;
+  }
+  
